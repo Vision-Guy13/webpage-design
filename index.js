@@ -5,4 +5,4 @@ window.alert("This is a cleaning site ");
 window.alert("Stay safe ");
 
 let firstName = "Bro"
-// let favourite = 
+let favourite = "yyjuk"
